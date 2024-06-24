@@ -24,7 +24,7 @@ Ce projet utilise les technologies suivantes :
     3. JavaScript (ES6)
 
 ## 🚀 Utilisation
-  1. Clonez le dépôt sur votre machine locale :
+1. Clonez le dépôt sur votre machine locale :
     ```bash
     git clone https://github.com/aya2705/CountDown-Timer.git
     ```

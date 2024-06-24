@@ -26,10 +26,13 @@ Ce projet utilise les technologies suivantes :
 ## 🚀 Utilisation
   1. Clonez le dépôt sur votre machine locale:
     ```bash
-      git clone https://github.com/aya2705/votre-repo.git
+      git clone https://github.com/aya2705/CountDown-Timer.git
+    ```
   2. Accédez au répertoire du projet :
     ```bash
       cd CountDown-Timer
+      ```
+  3. Ouvrez le fichier `CountDown_Timer.html` dans votre navigateur préféré.
 
-🤝 Contribuer
+## 🤝 Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à ouvrir une pull request ou à signaler un problème.

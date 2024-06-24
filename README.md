@@ -24,15 +24,15 @@ Ce projet utilise les technologies suivantes :
     3. JavaScript (ES6)
 
 ## 🚀 Utilisation
-  1. Clonez le dépôt sur votre machine locale:
+  1. Clonez le dépôt sur votre machine locale :
     ```bash
-      git clone https://github.com/aya2705/CountDown-Timer.git
+    git clone https://github.com/aya2705/CountDown-Timer.git
     ```
-  2. Accédez au répertoire du projet :
+2. Accédez au répertoire du projet :
     ```bash
-      cd CountDown-Timer
-      ```
-  3. Ouvrez le fichier `CountDown_Timer.html` dans votre navigateur préféré.
+    cd CountDown-Timer
+    ```
+3. Ouvrez le fichier `CountDown_Timer.html` dans votre navigateur préféré.
 
 ## 🤝 Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à ouvrir une pull request ou à signaler un problème.
